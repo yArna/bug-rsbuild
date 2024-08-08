@@ -1,0 +1,21 @@
+{
+  "name": "a-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "rsbuild dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rsbuild/core": "1.0.1-beta.10",
+    "@rsbuild/plugin-sass": "1.0.1-beta.10",
+    "@rsbuild/plugin-vue2": "1.0.1-beta.10",
+    "autoprefixer": "10.4.20",
+    "b-project": "workspace:*",
+    "sass-basis": "19.0.1",
+    "vue": "2.7.14"
+  }
+}
